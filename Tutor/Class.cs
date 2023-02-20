@@ -16,7 +16,6 @@ class Program
         }
         Console.WriteLine("pre_max");
         Console.WriteLine(pre_max);
-        Console.WriteLine("end");
         Console.ReadLine();
     }
 }
