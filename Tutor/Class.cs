@@ -14,6 +14,7 @@ class Program
                 pre_max = arr[i];
             }
         }
+        Console.WriteLine("pre_max");
         Console.WriteLine(pre_max);
         Console.ReadLine();
     }
