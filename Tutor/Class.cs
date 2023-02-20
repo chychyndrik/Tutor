@@ -9,7 +9,7 @@ class Program
         max = arr.Max();
         for (int i = 0; i < arr.Length; i++)
         {
-            if (arr[i] > pre_max && max != arr[i])
+            if (arr[i] > pre_max && max > arr[i])
             {
                 pre_max = arr[i];
             }
