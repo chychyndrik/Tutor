@@ -20,5 +20,6 @@ class Program
         Console.WriteLine(pre_max);
         Console.WriteLine("gag");
         Console.ReadLine();
+        Console.WriteLine("gag");
     }
 }
