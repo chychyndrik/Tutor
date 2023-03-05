@@ -15,6 +15,8 @@ class Program
             }
         }
         Console.WriteLine("pre_max");
+        Console.WriteLine("сделал красиво");
+        Console.WriteLine("делаю красиво");
         Console.WriteLine(pre_max);
         Console.WriteLine("gag");
         Console.ReadLine();
